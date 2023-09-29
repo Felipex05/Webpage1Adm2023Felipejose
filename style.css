@@ -9,3 +9,7 @@ p {
 em strong {
   color:red;
 }
+
+p {
+  text-align: center
+}
