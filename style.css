@@ -1,1 +1,11 @@
+body {
+  background: #FFD700
+}
 
+p {
+  text-align: center;
+}
+
+em strong {
+  color:red;
+}
